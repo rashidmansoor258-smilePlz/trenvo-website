@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trenvo-website.vercel.app/sitemap.xml
